@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NativeJedi/Hillel-group.git"
+    "url": "git+https://github.com/MusValery/Project_API.git"
   },
-  "author": "RL",
+  "author": "VM",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NativeJedi/Hillel-group/issues"
+    "url": "https://github.com/MusValery/Project_API/issues"
   },
-  "homepage": "https://github.com/NativeJedi/Hillel-group#readme",
+  "homepage": "https://MusValery.github.io/Project_API",
   "devDependencies": {
     "@babel/core": "^7.11.1",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
