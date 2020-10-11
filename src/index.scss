@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+h1.news__title {
+    font-size: 42px;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    border: 1px solid grey;
+    padding: 4px;
+}
+
+ul {
+    width: 70%;
+}
+
+button {
+    font-size: 20px;
+    background-color: rgba(221, 241, 247, 0.3);
+    padding: 4px 10px;
+    cursor: pointer;
+}
+
+.news-list .is-active {
+    background-color: rgba(201, 232, 252, 0.2);
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 18px;
+    margin-block-start: 0.20em;
+    margin-block-end: 0.33em;
+}
+
+button.pagination__btn {
+    font-size: 16px;
+}
+
+input.pagination__input {
+    width: 100px;
+}
+
+div.pagination__for__text {
+    width: 100px;
+}
